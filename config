@@ -1,0 +1,9 @@
+background = 000000
+foreground = ffffff
+font-family = "GohuFont14NerdFont"
+font-size = 20
+cursor-color = #ff3396
+cursor-text = #ffffff
+selection-background = #382087
+selection-foreground = #ffffff
+command = /usr/bin/tmux
